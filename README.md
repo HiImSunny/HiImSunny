@@ -1,11 +1,6 @@
-### Hi, I'm SunnyReborn 👋
+### Hi, I'm Sunny 👋
 
-- 🔭 I’m currently working on Spigot Plugin
-- 🌱 I’m currently learning Java
-- 😄 Pronouns: He/his
-- ⚡ Fun fact: I like cat
-- Discord: Duy Khang#1828
-- Buy for me some coffee: duykhang.sunext@gmail.com
+You can call me Adsel.
 
 ![SunnyReborn Stats](https://github-readme-stats.vercel.app/api?username=HiImSunny&show_icons=true&Gradient) 
 
