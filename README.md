@@ -1,6 +1,6 @@
 ### Hi, I'm Sunny 👋
 
-You can call me Adsel.
+You can also call me Adsel.
 
 ![SunnyReborn Stats](https://github-readme-stats.vercel.app/api?username=HiImSunny&show_icons=true&Gradient) 
 
