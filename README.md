@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Sunny. You can also call me Adsel!<br><br>I love how people love my project
+Hi, I'm Sunny. You can also call me Adsel!
 
 
 ## 🌐 Socials:
